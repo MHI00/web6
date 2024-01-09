@@ -1,0 +1,8 @@
+image insert krna:
+    img : element
+    
+    attributes of img element:
+    src="location+name+extenion"
+    alt="describe your image"
+    width=""
+    height=""
